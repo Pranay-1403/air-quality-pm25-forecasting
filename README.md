@@ -36,7 +36,3 @@ An interactive dashboard built with *Streamlit* allows users to input sensor met
     streamlit run app.py
 
 """
-
-​with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
-​print("README.md has been created successfully!")
